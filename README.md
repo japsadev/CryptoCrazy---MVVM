@@ -1,4 +1,4 @@
-# CryptoCrazy---MVVM
+# CryptoCrazy-MVVM
 
 My first using MVVM in project
 
